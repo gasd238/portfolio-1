@@ -9,7 +9,7 @@ function Header() {
     <Fade top duration={1000} distance="20px">
     <div>
       <header className="header">
-        <a href="" className="logo">
+        <a href="/" className="logo">
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">{greeting.username}</span>
           <span className="grey-color">/&gt;</span>
@@ -24,23 +24,14 @@ function Header() {
           </li>
           { exp === true &&
             <li>
-              <a href="#experience">Work Experiences</a>
+              <a href="#experience">Project</a>
             </li>
           }
           <li>
+            <a href="#achievements">Photo</a>
+          </li>
+          <li>
             <a href="#opensource">Open Source</a>
-          </li>
-          <li>
-            <a href="#projects">Projects</a>
-          </li>
-          <li>
-            <a href="#achievements">Achievements</a>
-          </li>
-          <li>
-            <a href="#blogs">Blogs</a>
-          </li>
-          <li>
-            <a href="#talks">Talks</a>
           </li>
           <li>
             <a href="#contact">Contact Me</a>
