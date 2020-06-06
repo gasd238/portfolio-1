@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f6ab4319.chunk.css",
-    "main.js": "/portfolio/static/js/main.c01bb614.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c01bb614.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f3804a0c.chunk.css",
+    "main.js": "/portfolio/static/js/main.ac25fddd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ac25fddd.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c26ebb5f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c26ebb5f.js.map",
-    "static/js/2.18e7080c.chunk.js": "/portfolio/static/js/2.18e7080c.chunk.js",
-    "static/js/2.18e7080c.chunk.js.map": "/portfolio/static/js/2.18e7080c.chunk.js.map",
+    "static/js/2.cc4c0e80.chunk.js": "/portfolio/static/js/2.cc4c0e80.chunk.js",
+    "static/js/2.cc4c0e80.chunk.js.map": "/portfolio/static/js/2.cc4c0e80.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.413aa5b31af4518e3c5cec7138663f13.js": "/portfolio/precache-manifest.413aa5b31af4518e3c5cec7138663f13.js",
+    "precache-manifest.133d0807e35010413edc55f7d1e4ebdb.js": "/portfolio/precache-manifest.133d0807e35010413edc55f7d1e4ebdb.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.f6ab4319.chunk.css.map": "/portfolio/static/css/main.f6ab4319.chunk.css.map",
+    "static/css/main.f3804a0c.chunk.css.map": "/portfolio/static/css/main.f3804a0c.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/airbnbLogo.jpg": "/portfolio/static/media/airbnbLogo.e47c3e26.jpg",
     "static/media/contactMail.png": "/portfolio/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/escape.jpg": "/portfolio/static/media/escape.f575da50.jpg",
+    "static/media/laptap.jpg": "/portfolio/static/media/laptap.e602bb47.jpg",
     "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
-    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg"
+    "static/media/node.png": "/portfolio/static/media/node.836df1b1.png",
+    "static/media/pwa.png": "/portfolio/static/media/pwa.bd5f4148.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/spa.png": "/portfolio/static/media/spa.351cb3fd.png",
+    "static/media/vue.jpg": "/portfolio/static/media/vue.22c3e6c3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c26ebb5f.js",
-    "static/js/2.18e7080c.chunk.js",
-    "static/css/main.f6ab4319.chunk.css",
-    "static/js/main.c01bb614.chunk.js"
+    "static/js/2.cc4c0e80.chunk.js",
+    "static/css/main.f3804a0c.chunk.css",
+    "static/js/main.ac25fddd.chunk.js"
   ]
 }
