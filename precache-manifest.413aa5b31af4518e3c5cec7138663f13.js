@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a303244359f3b4e002d5cbcda2b21ac1",
+    "revision": "4dc63bc9068193abea036499e800f1f1",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "dc28a89ad37a63ec2230",
-    "url": "/portfolio/static/css/main.cc7ae59f.chunk.css"
+    "revision": "e4c78c54fe7cabd4a1b7",
+    "url": "/portfolio/static/css/main.f6ab4319.chunk.css"
   },
   {
-    "revision": "cb9cf4e32e4bac5daba6",
-    "url": "/portfolio/static/js/2.3c1962d4.chunk.js"
+    "revision": "d8d76b265ef179331ab1",
+    "url": "/portfolio/static/js/2.18e7080c.chunk.js"
   },
   {
-    "revision": "dc28a89ad37a63ec2230",
-    "url": "/portfolio/static/js/main.71629e37.chunk.js"
+    "revision": "e4c78c54fe7cabd4a1b7",
+    "url": "/portfolio/static/js/main.c01bb614.chunk.js"
   },
   {
     "revision": "b0a63269e329c2954a2c",
@@ -50,9 +50,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/portfolio/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/portfolio/static/media/talksCardBack.0288c5ec.svg"
   }
 ]);
