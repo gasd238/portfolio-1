@@ -36,6 +36,7 @@ export default function ExperienceCard({ cardInfo }) {
         <ul>
           <GetDescBullets descBullets={cardInfo.descBullets} />
         </ul>
+        {/* <img crossOrigin={"anonymous"} ref={imgRef} className="experience-img" src={cardInfo.companylogo} alt=""/> */}
       </div>
     </div>
   );
